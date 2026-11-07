@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<azone>
+    <rzone name="R7FA8D1BHECBD.rzone"/>
+    <partition>
+        <peripheral name="PORT2.CM85" group="PORT">
+            <slot name="P200.CM85" secure="true"/>
+            <slot name="P208.CM85" secure="true"/>
+            <slot name="P209.CM85" secure="true"/>
+            <slot name="P210.CM85" secure="true"/>
+            <slot name="P211.CM85" secure="true"/>
+        </peripheral>
+        <peripheral name="PORT4.CM85" group="PORT">
+            <slot name="P410.CM85" secure="true"/>
+            <slot name="P411.CM85" secure="true"/>
+            <slot name="P412.CM85" secure="true"/>
+            <slot name="P413.CM85" secure="true"/>
+        </peripheral>
+        <peripheral name="ICU.CM85">
+            <slot name="IRQ0.CM85" secure="true"/>
+            <slot name="IRQ1.CM85" secure="true"/>
+            <slot name="IRQ2.CM85" secure="true"/>
+            <slot name="IRQ3.CM85" secure="true"/>
+        </peripheral>
+    </partition>
+</azone>
